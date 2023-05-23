@@ -261,7 +261,7 @@ header .container nav .form i:hover {
 }
 
 .landing {
-    background-image: url("D:\Data\HTML + CSS template 2\CSS\images\owl-glowing-eyes-s0-1536x864.jpg");
+    background-image: url(images/owl-glowing-eyes-s0-1536x864.jpg);
     width: 100%;
     min-height: 100vh;
     background-size: cover;
@@ -392,7 +392,7 @@ header .container nav .form i:hover {
 .design {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/CSS/images/apple-wwdc22-cv-1536x864.jpg);
+    background-image: url(images/apple-wwdc22-cv-1536x864.jpg);
     background-size: cover;
     position: relative;
     display: flex;
@@ -613,7 +613,7 @@ header .container nav .form i:hover {
 }
 
 .details {
-    background-image: url(/CSS/images/apple-event-2020-blue-logo-4k-cl-1536x864.jpg);
+    background-image: url(images/apple-event-2020-blue-logo-4k-cl-1536x864.jpg);
     background-size: cover;
     position: relative;
     padding: 100px 20px;
@@ -738,14 +738,14 @@ header .container nav .form i:hover {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    background-image: url(/CSS/images/skills-01.jpg);
+    background-image: url(images/skills-01.jpg);
     background-size: cover;
     left: -150px;
     bottom: 20px;
 }
 
 .stats .info>:nth-child(2):before {
-    background-image: url(/CSS/images/skills-02.jpg);
+    background-image: url(images/skills-02.jpg);
 }
 
 .stats .info .info-text p {
@@ -849,7 +849,7 @@ header .container nav .form i:hover {
 }
 
 .quote {
-    background-image: url(/CSS/images/small-memory-lp-1600x900.jpg);
+    background-image: url(images/small-memory-lp-1600x900.jpg);
     background-size: cover;
     width: 100%;
     color: white;
@@ -994,7 +994,7 @@ header .container nav .form i:hover {
 }
 
 .subscribe {
-    background-image: url(/CSS/images/earth-wide-1600x900.jpg);
+    background-image: url(images/earth-wide-1600x900.jpg);
     background-size: cover;
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
@@ -1185,7 +1185,7 @@ header .container nav .form i:hover {
 footer {
     padding-top: calc(var(--section-padding) / 2);
     padding-bottom: calc(var(--section-padding) / 2);
-    background-image: url(/CSS/images/tawny-owl-in-moonlight-0d-1600x900.jpg);
+    background-image: url(images/tawny-owl-in-moonlight-0d-1600x900.jpg);
     background-size: cover;
     position: relative;
 }
