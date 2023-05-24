@@ -1048,7 +1048,7 @@ header .container nav .form i:hover {
     caret-color: var(--main-color);
     width: calc(100% - 130px);
     color: white;
-    border-radius: none;
+    border-radius: 0px;
 }
 
 .subscribe .container form :last-child {
@@ -1060,7 +1060,7 @@ header .container nav .form i:hover {
     text-transform: uppercase;
     font-size: 18px;
     width: 130px;
-    border-radius: none;
+    border-radius: 0px;
 }
 
 
